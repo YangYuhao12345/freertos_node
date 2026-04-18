@@ -1,0 +1,10 @@
+F:/Stm32/freertos_node/Core/Src/main.c:87:5:main	80	static
+F:/Stm32/freertos_node/Core/Src/main.c:182:6:SystemClock_Config	88	static
+F:/Stm32/freertos_node/Core/Src/main.c:229:13:MX_USART3_UART_Init	8	static
+F:/Stm32/freertos_node/Core/Src/main.c:262:13:MX_USB_OTG_FS_PCD_Init	8	static
+F:/Stm32/freertos_node/Core/Src/main.c:298:13:MX_GPIO_Init	56	static
+F:/Stm32/freertos_node/Core/Src/main.c:361:5:_write	24	static
+F:/Stm32/freertos_node/Core/Src/main.c:375:6:StartDefaultTask	16	static
+F:/Stm32/freertos_node/Core/Src/main.c:390:6:StartLedTask	80	static
+F:/Stm32/freertos_node/Core/Src/main.c:408:6:StartLogTask	80	static
+F:/Stm32/freertos_node/Core/Src/main.c:427:6:Error_Handler	4	static,ignoring_inline_asm

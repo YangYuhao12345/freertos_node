@@ -1,0 +1,5 @@
+F:/Stm32/freertos_node/Core/Src/stm32f4xx_hal_msp.c:62:6:HAL_MspInit	16	static
+F:/Stm32/freertos_node/Core/Src/stm32f4xx_hal_msp.c:87:6:HAL_UART_MspInit	48	static
+F:/Stm32/freertos_node/Core/Src/stm32f4xx_hal_msp.c:124:6:HAL_UART_MspDeInit	16	static
+F:/Stm32/freertos_node/Core/Src/stm32f4xx_hal_msp.c:153:6:HAL_PCD_MspInit	136	static
+F:/Stm32/freertos_node/Core/Src/stm32f4xx_hal_msp.c:208:6:HAL_PCD_MspDeInit	16	static
